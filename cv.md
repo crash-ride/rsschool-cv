@@ -16,7 +16,7 @@ Basic knowledge of programming languages:
 * Java
 * Python
 
-## Code examples
+## Code example
 ```
 class MyClass:
   def __init__(self, Name="Dzmitry", Age=37):
@@ -28,7 +28,7 @@ class MyClass:
     self.Name = Name
   def GetAge(self):
     return self.Age
-  def SetAge(self, Age):
+  def SetAge(self, Age): 
     self.Age = Age
   def __str__(self):
     return "{0} at age {1}.".format(self.Name, self.Age)}
