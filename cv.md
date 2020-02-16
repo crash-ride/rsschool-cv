@@ -17,7 +17,7 @@ Basic knowledge of programming languages:
 * Python
 
 ## Code example
-```
+``` Python
 class MyClass:
   def __init__(self, Name="Dzmitry", Age=37):
     self.Name = Name
