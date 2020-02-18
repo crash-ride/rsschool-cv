@@ -1,3 +1,5 @@
-body{
-    max-width: 1024px
+body {
+  background-color: rgb(255, 255, 255);
+  background-position: center top;
+  max-width: 1024px;
 }
